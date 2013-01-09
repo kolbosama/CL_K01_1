@@ -5,5 +5,5 @@ void main(void){
 	int sum;
 	int a = 19,b=29;
 	sum = a + b;
-	printf("19に29を足した値は%dです。\n",sum);
+	printf("%dに%dを足した値は%dです。\n"a,b,sum);
 	}
