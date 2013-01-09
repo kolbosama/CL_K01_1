@@ -3,6 +3,7 @@
 /* ‰Û‘è–¼:‰Û‘è01_1 */
 void main(void){
 	int sum;
-	sum = 19 + 29;
+	int a = 19,b=29;
+	sum = a + b;
 	printf("19‚É29‚ğ‘«‚µ‚½’l‚Í%d‚Å‚·B\n",sum);
 	}
